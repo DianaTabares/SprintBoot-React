@@ -1,14 +1,4 @@
 
-…
-Ugestion_clientes/src/main/java/com.gestion_clientes/controller/ClienteController.java,4\d\4d9f029cfc0d33be4330862682629972618eb8c2
-ƒ
-Sgestion_clientes/src/main/java/com.gestion_clientes/GestionClientesApplication.java,a\2\a265d6e02e8d3404cb8b4417b18ecdd601b32c63
-Œ
-\gestion_clientes/src/main/java/com.gestion_clientes/exception/ResourceNotFoundException.java,0\e\0ee5e004b12f3764a5ca06e3aab846b6e9713c20
-w
-Ggestion_clientes/src/main/java/com.gestion_clientes/model/Clientes.java,1\2\12ed1aa3cf773b6113f1d8ad6dbeccee7a2b264a
-…
-Ugestion_clientes/src/main/java/com.gestion_clientes/repository/ClienteRepository.java,1\5\15e092ad9f67a4221eb18b9416bc6219a9ae97e8
 |
 Lgestion_clientes/src/main/java/com.gestion/controller/ClienteController.java,1\a\1ac02eb219bec3343fe39fc7e40d3e90775605a8
 ƒ
@@ -17,3 +7,5 @@ n
 >gestion_clientes/src/main/java/com.gestion/model/Clientes.java,2\5\2573ed1c6d3e0cc766cbfaf3d70e727f44eab83c
 z
 Jgestion_clientes/src/main/java/com.gestion/GestionClientesApplication.java,c\a\caddf727025230a2eb301349a840dd32d12397ff
+|
+Lgestion_clientes/src/main/java/com.gestion/repository/ClienteRepository.java,a\1\a18a3bb7e44139756628fa4f79ffa7f884235648
